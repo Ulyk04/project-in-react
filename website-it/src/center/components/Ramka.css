@@ -1,0 +1,29 @@
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.main {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main img {
+    width: 600px;
+    height: 400px;
+}
+
+.main p {
+    position: absolute;
+    top: 50%; /* Положение текста относительно изображения */
+    transform: translateY(-50%);
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    width: 100%;
+}
