@@ -1,0 +1,21 @@
+.wrapper{
+    border: 1px solid #333 ; 
+    border-radius:15px ;
+    margin: 50px;
+    background-color: rgb(174, 213, 245);
+    cursor: pointer;
+}
+.wrapper:hover{
+    background-color: aliceblue;
+}
+.h{
+    border-bottom: 1px solid #333 ;
+}
+p{
+    padding: 15px;
+    font-size: 20px;
+}
+.h h1{
+    display: flex;
+    justify-content: center;
+}
