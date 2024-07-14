@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.456727c7.css",
+    "main.js": "/static/js/main.9a749599.js",
+    "static/js/453.1870f1f4.chunk.js": "/static/js/453.1870f1f4.chunk.js",
+    "static/media/work3.jpg": "/static/media/work3.af9af7a64fd7b7c01e32.jpg",
+    "static/media/whatsapp.png": "/static/media/whatsapp.4178d77f8ddbe3edf831.png",
+    "static/media/frontend.png": "/static/media/frontend.448bb70e5629048d8bf1.png",
+    "static/media/internet1.png": "/static/media/internet1.6544c3cd17ebea404ac5.png",
+    "static/media/work7.jpg": "/static/media/work7.0ced2d496816c20ab4be.jpg",
+    "static/media/py.png": "/static/media/py.56dceac7ea443201a6c6.png",
+    "static/media/doc1.png": "/static/media/doc1.5d551007d92acabbd91c.png",
+    "static/media/work6.jpeg": "/static/media/work6.d4c47ba54f0084b3859c.jpeg",
+    "static/media/back1.jpeg": "/static/media/back1.7afb9a24529269ea944f.jpeg",
+    "static/media/backend.png": "/static/media/backend.de063efa1c7e30543415.png",
+    "static/media/comp1.png": "/static/media/comp1.57887b85cb8f146c420d.png",
+    "static/media/prog.png": "/static/media/prog.dec73547a4f2e915af26.png",
+    "static/media/instagram.png": "/static/media/instagram.fff6971eba311f9d9684.png",
+    "static/media/work1.jpg": "/static/media/work1.70d683a5876e529bad0e.jpg",
+    "static/media/reddit.png": "/static/media/reddit.a1ccba137469ca662bec.png",
+    "static/media/p1.png": "/static/media/p1.24207ea38fb2bf267ab5.png",
+    "static/media/linkedin.png": "/static/media/linkedin.42d7aa919021856e4ea9.png",
+    "static/media/work2.jpg": "/static/media/work2.28e87acee2b04d21fb38.jpg",
+    "static/media/work4.jpg": "/static/media/work4.fecb17be4951c469d43d.jpg",
+    "static/media/work10.jpg": "/static/media/work10.0ab0076bb5c43f1e5775.jpg",
+    "static/media/java.png": "/static/media/java.613d2b6499829bffb809.png",
+    "static/media/work8.jpg": "/static/media/work8.9f48f8394736e0f469ef.jpg",
+    "static/media/work9.jpg": "/static/media/work9.e5a0031f8d7485721ad9.jpg",
+    "static/media/facebook.png": "/static/media/facebook.5b503a42e99c8015987d.png",
+    "index.html": "/index.html",
+    "main.456727c7.css.map": "/static/css/main.456727c7.css.map",
+    "main.9a749599.js.map": "/static/js/main.9a749599.js.map",
+    "453.1870f1f4.chunk.js.map": "/static/js/453.1870f1f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.456727c7.css",
+    "static/js/main.9a749599.js"
+  ]
+}

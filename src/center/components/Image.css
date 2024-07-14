@@ -1,0 +1,28 @@
+.image-container {
+    border: 2px solid #000; 
+    border-radius: 25px;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 255, 0.3); 
+    display: flex;
+    flex-direction: column;
+}
+
+.iso {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.caption {
+    background-color: #fff;
+    padding: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #333;
+    border-top: 1px solid #333; 
+    flex-shrink: 0;
+}
